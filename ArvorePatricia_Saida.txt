@@ -1,0 +1,45 @@
+EXEMPLO 1
+trabalho: Elemento encontrado - 2
+Linhas - [22, 24]
+Colunas - [2, 2]
+
+computacao: Elemento encontrado - 5
+Linhas - [5, 8, 9, 14, 21]
+Colunas - [8, 2, 8, 6, 6]
+
+governo: Elemento encontrado - 1
+Linhas - [6]
+Colunas - [10]
+
+educacao: Elemento encontrado - 3
+Linhas - [4, 27, 28]
+Colunas - [10, 2, 9]
+
+tecnologia: Elemento encontrado - 3
+Linhas - [20, 30, 33]
+Colunas - [4, 10, 8]
+
+formacao: Elemento encontrado - 2
+Linhas - [1, 22]
+Colunas - [6, 10]
+
+desenvolvimento: Elemento encontrado - 2
+Linhas - [26, 27]
+Colunas - [4, 6]
+
+que: Elemento encontrado - 11
+Linhas - [4, 5, 8, 14, 16, 24, 26, 30, 30, 34, 34]
+Colunas - [4, 4, 8, 10, 5, 6, 5, 6, 14, 5, 9]
+
+informatica: Elemento encontrado - 2
+Linhas - [16, 27]
+Colunas - [2, 10]
+
+em: Elemento encontrado - 6
+Linhas - [10, 14, 14, 15, 19, 28]
+Colunas - [8, 1, 3, 1, 8, 8]
+
+crise: Elemento encontrado - 1
+Linhas - [31]
+Colunas - [6]
+
